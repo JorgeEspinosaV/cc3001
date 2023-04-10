@@ -1,2 +1,2 @@
 # cc3001
-Curso V Semestre Algoritmos y estrucuturas de datos
+Curso V Semestre Algoritmos y estructuras de datos
